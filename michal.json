@@ -1,6 +1,31 @@
 {
 	"Date":
-				"04.22 - 04-28",
+				"04.29 - 05.06",
+
+	"I am currently working on":
+				"p1xt Guide wd-sc: 2nd/3rd YDNJS book from tier 1",
+
+	"What I want to accomplish this week in each area":
+				"finish 2nd YDKJS and go throught 3rd YDNJS book",
+
+	"Technical Skills or Challenges":
+				"Focus on Task!",
+
+	"Life obstacles to coding this week":
+				"1 and 3.05 are holidays",
+
+	"Overcoming the obstacles":
+				"Wake up early every day and study up to 2h",
+
+	"How can I celebrate meeting my goals?":
+				"Go out to play boarding game with my friends. Again :)"
+}
+
+
+//-------------------------------------------------------------------------------------------------------------------------
+{
+	"Date":
+				"04.22 - 04.28",
 
 	"I am currently working on":
 				"p1xt Guide wd-sc: 2nd YDNJS book from tier 1",
@@ -18,5 +43,7 @@
 				"Wake up early every day and study up to 2h",
 
 	"How can I celebrate meeting my goals?":
-				"Go out to play boarding game with my friends."
+				"Go out to play boarding game with my friends.",
+	"Summary after whole week":
+				"Book about Scope&Closures turn out to be pretty dense and took more time than I expected. I nearly finished it. I think that it will take me one more day and I will start 3rd book about prototype&this"
 }
