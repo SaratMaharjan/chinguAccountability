@@ -1,0 +1,18 @@
+<html>
+<head>
+   <script>
+       var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+               var mhrjn = document.getElementById(smhrjn);
+               mhrjn.innerHtml = JSON.stringify(response);
+            }
+        };
+        xhttp.open("GET", "smhrjn.json", true);
+        xhttp.send();
+   </script>
+</head>
+<body>
+  <div id='smhrjn'></div>
+</body>
+</html>
