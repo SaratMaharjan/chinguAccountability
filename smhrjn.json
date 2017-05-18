@@ -1,25 +1,35 @@
-{
-	"Date":
-				"05.07 - 05-13",
+[{
+		"Date": "05.14 - 05-21",
 
-	"What I accomplished last week":
-				"finished Basic Vuejs tutorials",
+		"What I accomplished last week": "was really inactive last week, just watched some videos",
 
-	"I am currently working on":
-				"advanced topics on Vuejs including material Vue library",
+		"I am currently working on": "advanced topics on Vuejs including material Vue library",
 
-	"What I want to accomplish this week in each area":
-				"get comfortable with Vue starter kit, we use in our project",
+		"What I want to accomplish this week in each area": "get back in learning track",
 
-	"Technical Skills or Challenges":
-				"lots of new topics",
+		"Technical Skills or Challenges": "too much material on internet ;)",
 
-	"Life obstacles to coding this week":
-				"job - will stay constant I guess ;)",
+		"Life obstacles to coding this week": "job - will stay constant I guess ;)",
 
-	"Overcoming the obstacles":
-				"better time management",
+		"Overcoming the obstacles": "better time management",
 
-	"How can I celebrate meeting my goals?":
-				"watch some new episodes, few games on chess.com"
-}
+		"How can I celebrate meeting my goals?": "watch some new episodes, few games on chess.com"
+	},
+	{
+		"Date": "05.07 - 05-13",
+
+		"What I accomplished last week": "finished Basic Vuejs tutorials",
+
+		"I am currently working on": "advanced topics on Vuejs including material Vue library",
+
+		"What I want to accomplish this week in each area": "get comfortable with Vue starter kit, we use in our project",
+
+		"Technical Skills or Challenges": "lots of new topics",
+
+		"Life obstacles to coding this week": "job - will stay constant I guess ;)",
+
+		"Overcoming the obstacles": "better time management",
+
+		"How can I celebrate meeting my goals?": "watch some new episodes, few games on chess.com"
+	}
+]

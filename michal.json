@@ -1,92 +1,66 @@
-	"Date":
-				"05.14 - 05-20",
+[{
+		"Date": "05.14 - 05-20",
 
-	"What I accomplished last week":
-				"scanned throught chaper this&prototype. due to damaged hand and trip to my wife's family the process of learning was heavly distrubted",
+		"What I accomplished last week": "scanned throught chaper this&prototype. due to damaged hand and trip to my wife's family the process of learning was heavly distrubted",
 
-	"What I want to accomplish this week in each area":
-				"get back on track and finish this&prototype YDNJS book",
+		"What I want to accomplish this week in each area": "get back on track and finish this&prototype YDNJS book",
 
-	"Technical Skills or Challenges":
-				"Focus on Task!",
+		"Technical Skills or Challenges": "Focus on Task!",
 
-	"Life obstacles to coding this week":
-				"severly injured right hand",
+		"Life obstacles to coding this week": "severly injured right hand",
 
-	"Overcoming the obstacles":
-				"Wake up early every day and study up to 2h",
+		"Overcoming the obstacles": "Wake up early every day and study up to 2h",
 
-	"How can I celebrate meeting my goals?":
-				"Watch an episode of GOT"
-}
-//-------------------------------------------------------------------------------------------------------------------------
-	"Date":
-				"05.07 - 05-13",
+		"How can I celebrate meeting my goals?": "Watch an episode of GOT"
+	},
 
-	"What I accomplished last week":
-				"finished scope&closures YDNJS, 1st and nearly all 2nd chaper this&prototype",
+	{
+		"Date": "05.07 - 05-13",
 
-	"What I want to accomplish this week in each area":
-				"finish this&prototype YDNJS book",
+		"What I accomplished last week": "finished scope&closures YDNJS, 1st and nearly all 2nd chaper this&prototype",
 
-	"Technical Skills or Challenges":
-				"Focus on Task!",
+		"What I want to accomplish this week in each area": "finish this&prototype YDNJS book",
 
-	"Life obstacles to coding this week":
-				"severly injured right hand and it is in the plaster. Attendig weeding",
+		"Technical Skills or Challenges": "Focus on Task!",
 
-	"Overcoming the obstacles":
-				"Wake up early every day and study up to 2h",
+		"Life obstacles to coding this week": "severly injured right hand and it is in the plaster. Attendig weeding",
 
-	"How can I celebrate meeting my goals?":
-				"Watch an episode of GOT"
-}
-//-------------------------------------------------------------------------------------------------------------------------
-{
-	"Date":
-				"04.29 - 05.06",
+		"Overcoming the obstacles": "Wake up early every day and study up to 2h",
 
-	"I am currently working on":
-				"p1xt Guide wd-sc: 2nd/3rd YDNJS book from tier 1",
+		"How can I celebrate meeting my goals?": "Watch an episode of GOT"
+	},
 
-	"What I want to accomplish this week in each area":
-				"finish 2nd YDKJS and go throught 3rd YDNJS book",
+	{
+		"Date": "04.29 - 05.06",
 
-	"Technical Skills or Challenges":
-				"Focus on Task!",
+		"I am currently working on": "p1xt Guide wd-sc: 2nd/3rd YDNJS book from tier 1",
 
-	"Life obstacles to coding this week":
-				"1 and 3.05 are holidays",
+		"What I want to accomplish this week in each area": "finish 2nd YDKJS and go throught 3rd YDNJS book",
 
-	"Overcoming the obstacles":
-				"Wake up early every day and study up to 2h",
+		"Technical Skills or Challenges": "Focus on Task!",
 
-	"How can I celebrate meeting my goals?":
-				"Go out to play boarding game with my friends. Again :)"
-}
-//-------------------------------------------------------------------------------------------------------------------------
-{
-	"Date":
-				"04.22 - 04.28",
+		"Life obstacles to coding this week": "1 and 3.05 are holidays",
 
-	"I am currently working on":
-				"p1xt Guide wd-sc: 2nd YDNJS book from tier 1",
+		"Overcoming the obstacles": "Wake up early every day and study up to 2h",
 
-	"What I want to accomplish this week in each area":
-				"2nd YDKJS and 3rd YDNJS book",
+		"How can I celebrate meeting my goals?": "Go out to play boarding game with my friends. Again :)"
+	},
 
-	"Technical Skills or Challenges":
-				"Focus on Task!",
+	{
+		"Date": "04.22 - 04.28",
 
-	"Life obstacles to coding this week":
-				"Baptism ceremony of my daughter + family gathering, work and maintaining the life.",
+		"I am currently working on": "p1xt Guide wd-sc: 2nd YDNJS book from tier 1",
 
-	"Overcoming the obstacles":
-				"Wake up early every day and study up to 2h",
+		"What I want to accomplish this week in each area": "2nd YDKJS and 3rd YDNJS book",
 
-	"How can I celebrate meeting my goals?":
-				"Go out to play boarding game with my friends.",
-	
-	"Summary after whole week":
-				"Book about Scope&Closures turn out to be pretty dense and took more time than I expected. I nearly finished it. I think that it will take me one more day and I will start 3rd book about prototype&this"
-}
+		"Technical Skills or Challenges": "Focus on Task!",
+
+		"Life obstacles to coding this week": "Baptism ceremony of my daughter + family gathering, work and maintaining the life.",
+
+		"Overcoming the obstacles": "Wake up early every day and study up to 2h",
+
+		"How can I celebrate meeting my goals?": "Go out to play boarding game with my friends.",
+
+		"Summary after whole week": "Book about Scope&Closures turn out to be pretty dense and took more time than I expected. I nearly finished it. I think that it will take me one more day and I will start 3rd book about prototype&this"
+	}
+]
