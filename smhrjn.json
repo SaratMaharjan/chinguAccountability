@@ -31,5 +31,37 @@
 		"Overcoming the obstacles": "better time management",
 
 		"How can I celebrate meeting my goals?": "watch some new episodes, few games on chess.com"
+	},
+	{
+		"Date": "04.29 - 05-06",
+
+		"What I accomplished last week": "finished basics of components in Angular, new Syntax in ES2015",
+
+		"I am currently working on": "learning Vue.js because learn.to.build Project members decided for Vue, and learning Webpack parallely",
+
+		"What I want to accomplish this week in each area": "get going with Webpack and get started with VUE",
+
+		"Technical Skills or Challenges": "lots of new topics",
+
+		"Life obstacles to coding this week": "job - will stay constant I guess ;)",
+
+		"Overcoming the obstacles": "better time management",
+
+		"How can I celebrate meeting my goals?": "watch some new episodes, few games on chess.com"
+	},
+	{
+		"Date": "04.22 - 04-28",
+
+		"I am currently working on": "Learning JS and Angualar through online Videos, would like to start with YDNJS too",
+
+		"What I want to accomplish this week in each area": "get good grasp of JS, start Project with Angular",
+
+		"Technical Skills or Challenges": "less time",
+
+		"Life obstacles to coding this week": "job",
+
+		"Overcoming the obstacles": "sleeping late ;)",
+
+		"How can I celebrate meeting my goals?": "watch some new episodes, few games on chess.com"
 	}
 ]
