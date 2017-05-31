@@ -1,4 +1,21 @@
 [{
+		"Date": "05.29 - 06-03",
+
+		"What I accomplished last week": "learnyounode, expressworks from nodeschool, basic VueJs tutorials, few functional programming",
+
+		"I am currently working on": "learning VueJS, node and FP",
+
+		"What I want to accomplish this week in each area": "start with Portfolio using VueJs, mongodb basics",
+
+		"Technical Skills or Challenges": "none specific",
+
+		"Life obstacles to coding this week": "job - will stay constant I guess ;)",
+
+		"Overcoming the obstacles": "better time management",
+
+		"How can I celebrate meeting my goals?": "watch some new episodes, few games on chess.com"
+	},
+	{
 		"Date": "05.22 - 05-28",
 
 		"What I accomplished last week": "chingu team decided to use vanillaJS, so back to learning Angular, completed TourOfHeroes from Angular.io upto HTTP",
